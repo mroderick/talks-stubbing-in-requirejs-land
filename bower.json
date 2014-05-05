@@ -1,0 +1,24 @@
+{
+  "name": "stubbing-requirejs-talk",
+  "version": "0.0.0",
+  "authors": [
+    "Morgan Roderick <morgan@roderick.dk>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "squire": "~0.2.0",
+    "bogus": "~0.3.0"
+  }
+}
