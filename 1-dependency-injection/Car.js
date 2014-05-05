@@ -1,4 +1,3 @@
-// Car
 define('Car', function(){
     function Car(steeringWheel){
         this.steeringWheel = steeringWheel;
